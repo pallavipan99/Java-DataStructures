@@ -1,0 +1,14 @@
+Oh HashMap, how thy keys and values entwine,
+A perfect union, bound by code and fate.
+Thy entries, stored in memory divine,
+A treasure trove of data, sealed and great.
+Thy methods, simple yet powerful, keep
+Our data safe and accessible with ease.
+With put and get, thy secrets we can reap,
+And traverse thy structures with such ease.
+Thy performance, too, is quite impressive,
+With constant time for lookups, we're astound.
+Thy simplicity and speed possessive,
+Thy value, in our hearts, forever bound.
+Oh HashMap, thy worth cannot be measured,
+In code and data, thy worth is un-treasured.
